@@ -2,11 +2,8 @@
 <img src="https://i.ibb.co/XbCFQzh/mockup.png" alt="mockup" target="_blank" rel="noopener" width="850">
 Double Shamrock is a social website of St Patrick's Day jokes and videos. The users can create, read, edit and delete jokes on website. The site is designed to be easy to navigate and use, promoting a simple layout with minimal but effective and purposeful features.
 
-Project Requirements:
+A live version of the site is available [here](http://doubleshamrocks.herokuapp.com/).
 
-Build an interactive front-end website that responds to user actions and alters the way the site displays data/information.
-
-Required Technologies : HTML, CSS, JavaScript, Python+Flask, MongoDB. A live version of the site is available here.
 ---
 
 ## Table of Contents
